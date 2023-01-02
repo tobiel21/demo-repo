@@ -1,8 +1,12 @@
 # Demo
 
-
 Some description!!!
 
-## Welcome home 
+## Subheader
 
-Watch tuturial videos
+Watch tuturial on Youtube.
+
+## Local Development
+
+1. Opem index.html in your browser. 
+
